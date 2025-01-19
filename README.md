@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @rakaliku
-- 👀 I’m interested in building application
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in building applications
+- 🌱 I’m currently learning Fast API and AI & ML
+- 💞️ I’m looking to collaborate on Fast API and AI & ML
 - 📫 Reach me @ rakeshsahoo16@gmail.com
 
 <!---
